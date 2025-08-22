@@ -11,3 +11,5 @@ Aplicación web con **Streamlit** para un EDA rápido del dataset de anuncios de
 conda activate tripleten
 cd "C:\Users\Control Escolar\Documents\Tripleten-app"
 streamlit run app.py
+## Demo en vivo
+https://tripleten-app.onrender.com
